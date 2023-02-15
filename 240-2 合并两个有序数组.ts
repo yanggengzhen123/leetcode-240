@@ -6,7 +6,6 @@
 let nums1 =  [1,2,3,0,0,0]
 let nums2 = [2,5,6]
 function merge(nums1: number[], m: number, nums2: number[], n: number): void {
-    nums1 = [...nums1,...nums2].filter(item => item !== 0).sort((a,b) => a - b)
-    console.log(nums1)
+    
 };
 merge(nums1,3,nums2,3)
