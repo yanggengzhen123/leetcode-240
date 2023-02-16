@@ -6,6 +6,6 @@
 let nums1 =  [1,2,3,0,0,0]
 let nums2 = [2,5,6]
 function merge(nums1: number[], m: number, nums2: number[], n: number): void {
-    
+    // 测试
 };
 merge(nums1,3,nums2,3)
