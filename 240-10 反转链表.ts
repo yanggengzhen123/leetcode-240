@@ -1,3 +1,4 @@
+// https://leetcode.cn/problems/reverse-linked-list/discussion/
 class ListNode {
     val: number;
     next: ListNode | null;
